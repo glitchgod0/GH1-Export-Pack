@@ -1,5 +1,5 @@
 # GH1 Export Pack
- An overhaul for the GH1 export pack for RB2. The goal is to add sections, animations and eventually new parts. Songs will be tiered by whats done, pass 1 is sections, pass 2 is metadata and pass 3 is animations done.
+ An overhaul for the GH1 export pack for RB2. The goal is to add sections, animations and eventually new parts.
  
 | Song  | Status |
 | ------------- | ------------- |
@@ -54,6 +54,7 @@
 | Trippolette (Advanced Harmony: Final Project)  | Unchanged  |
 
 ## Guidelines
+Songs should be tiered by whats done, pass 1 is sections, pass 2 is metadata and pass 3 is animations done.
 Sections and metadata should always follow GH2DX when possible.
 Shortnames should always be "gh1" then followed by title
 Song origin should be "gh1"
