@@ -3,7 +3,7 @@
  
 | Song  | Status |
 | ------------- | ------------- |
-| Ace Of Spades  | Unchanged  |
+| Ace Of Spades  | Pass 2  |
 | All of This  | Unchanged  |
 | Bark at the Moon  | Pass 2  |
 | Behind The Mask  | Unchanged  |
