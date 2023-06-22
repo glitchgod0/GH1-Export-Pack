@@ -52,3 +52,8 @@
 | Ziggy Stardust  | Unchanged  |
 | Graveyard Shift  | Unchanged  |
 | Trippolette (Advanced Harmony: Final Project)  | Unchanged  |
+
+## Guidelines
+Sections and metadata should always follow GH2DX when possible.
+Shortnames should always be "gh1" then followed by title
+Song origin should be "gh1"
