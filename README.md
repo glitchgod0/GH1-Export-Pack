@@ -1,11 +1,11 @@
 # GH1 Export Pack
- An overhaul for the GH1 export pack for RB2. The goal is to add sections, animations and eventually new parts.
+ An overhaul for the GH1 export pack for RB2. The goal is to add sections, animations and eventually new parts. Songs will be tiered by whats done, pass 1 is sections, pass 2 is metadata and pass 3 is animations done.
  
 | Song  | Status |
 | ------------- | ------------- |
 | Ace Of Spades  | Unchanged  |
 | All of This  | Unchanged  |
-| Bark at the Moon  | Unchanged  |
+| Bark at the Moon  | Pass 2  |
 | Behind The Mask  | Unchanged  |
 | Callout  | Unchanged  |
 | Caveman Rejoice  | Unchanged  |
